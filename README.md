@@ -1,3 +1,5 @@
+**Role Distribution:**
+
 **Aftab Makbul Makandar**
 Core Functionality Development:
 Implemented the DataExchangeSimulator class for demonstrating resource management with byte and character streams.
